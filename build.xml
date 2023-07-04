@@ -7,7 +7,7 @@
     used for execution of your tasks. These targets are usually executed 
     before and after some main targets. Those of them relevant for JavaFX project are: 
 
-      -pre-init:                 called before initialization of project properties
+      -pre-init:                  called before initialization of project properties
       -post-init:                called after initialization of project properties
       -pre-compile:              called before javac compilation
       -post-compile:             called after javac compilation
